@@ -1,42 +1,800 @@
 [
   {
-    "slug": "quick-start-zentient-results",
-    "title": "Quick Start Guide to Zentient.Results",
-    "description": "Get started with Zentient.Results in minutes.",
-    "tags": [ "Zentient.Results", "Getting Started", ".NET" ],
-    "categories": [ "Getting-Started" ],
-    "publishDate": "2023-01-15T10:00:00Z",
-    "targetAudiences": [ "developer" ],
-    "contentPath": "quick-start-zentient-results.md"
+    "slug": "asynchronous-programming-in-csharp",
+    "title": "Asynchronous Programming in C#",
+    "description": "A guide to understanding and implementing asynchronous programming in C# using async and await, focusing on benefits like improved responsiveness and efficient resource utilization.",
+    "summary": "Learn the fundamentals of asynchronous programming in C#, including the async and await keywords, and how they enhance application responsiveness and resource efficiency for I/O-bound operations.",
+    "tags": [
+      "C#",
+      "Asynchronous Programming",
+      "async",
+      "await",
+      ".NET",
+      "Concurrency"
+    ],
+    "keywords": [
+      "C# async await",
+      "asynchronous operations C#",
+      "non-blocking code C#",
+      "Task T",
+      "I/O-bound operations"
+    ],
+    "categories": [
+      "Programming",
+      "C#",
+      ".NET"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "asynchronous-programming-in-csharp.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
   },
   {
-    "slug": "architectural-deep-dive",
-    "title": "Zentient.Results: Architectural Deep Dive",
-    "description": "An in-depth look at the design principles and patterns behind Zentient.Results.",
-    "tags": [ "Zentient.Results", "Architecture", "Design Patterns", "Functional Programming" ],
-    "categories": [ "Core-Concepts" ],
-    "publishDate": "2023-03-10T14:30:00Z",
-    "targetAudiences": [ "developer", "techlead" ],
-    "contentPath": "architectural-deep-dive.md"
+    "slug": "aws-certified-solutions-architect-associate",
+    "title": "AWS Certified Solutions Architect - Associate",
+    "description": "A comprehensive guide to preparing for the AWS Certified Solutions Architect - Associate certification, covering key AWS services, architectural best practices, and exam tips.",
+    "summary": "Prepare for the AWS Certified Solutions Architect - Associate exam with this guide covering essential AWS services, architectural best practices, security, cost optimization, and exam tips.",
+    "tags": [
+      "AWS",
+      "Certification",
+      "Cloud Computing",
+      "Solutions Architect",
+      "Associate"
+    ],
+    "keywords": [
+      "AWS certification",
+      "Solutions Architect Associate",
+      "AWS services",
+      "cloud architecture",
+      "AWS exam prep",
+      "cloud security"
+    ],
+    "categories": [
+      "Cloud Computing",
+      "AWS",
+      "Certifications"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead",
+      "recruiter"
+    ],
+    "contentPath": "aws-certified-solutions-architect-associate.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
   },
   {
-    "slug": "my-contribution-summary",
-    "title": "My Key Contributions to Zentient.Results",
-    "description": "Highlighting my personal impact and skills demonstrated in the Zentient.Results project.",
-    "tags": [ "Portfolio", "Impact", "Skills", "Leadership" ],
-    "categories": [ "Personal-Showcase" ],
-    "publishDate": "2023-05-20T09:00:00Z",
-    "targetAudiences": [ "recruiter", "techlead" ],
-    "contentPath": "my-contribution-summary.md"
+    "slug": "beginners-guide-to-csharp",
+    "title": "A Beginner's Guide to C#",
+    "description": "A gentle introduction to the core concepts of C#, covering basic syntax, variables, data types, operators, control flow, and object-oriented programming.",
+    "summary": "Get started with C# programming. This guide covers fundamental concepts including syntax, data types, control flow, and an introduction to object-oriented programming.",
+    "tags": [
+      "C#",
+      "Programming",
+      "Beginner",
+      ".NET",
+      "Object-Oriented Programming"
+    ],
+    "keywords": [
+      "C# for beginners",
+      "learn C#",
+      "C# basic syntax",
+      "C# data types",
+      "C# control flow",
+      "OOP C#"
+    ],
+    "categories": [
+      "Programming",
+      "C#",
+      "Fundamentals"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer"
+    ],
+    "contentPath": "beginners-guide-to-csharp.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
   },
   {
-    "slug": "integrating-aspnet-core",
-    "title": "Integrating Zentient.Results with ASP.NET Core",
-    "description": "Practical guide on using Zentient.Results in ASP.NET Core applications.",
-    "tags": [ "ASP.NET Core", "Integration", "Web Development" ],
-    "categories": [ "Integrations" ],
-    "publishDate": "2023-04-01T11:00:00Z",
-    "targetAudiences": [ "developer", "techlead" ],
-    "contentPath": "integrating-aspnet-core.md"
+    "slug": "building-restful-apis-with-aspnet-core",
+    "title": "Building RESTful APIs with ASP.NET Core",
+    "description": "Learn to build robust RESTful APIs using ASP.NET Core, covering key components, best practices, and an example of a ProductsController.",
+    "summary": "A guide to developing RESTful APIs with ASP.NET Core, focusing on controllers, models, services, middleware, and essential best practices for secure and performant APIs.",
+    "tags": [
+      "ASP.NET Core",
+      "RESTful API",
+      "C#",
+      "Web Development",
+      ".NET"
+    ],
+    "keywords": [
+      "ASP.NET Core API",
+      "REST API C#",
+      "HTTP methods",
+      "API design",
+      "ASP.NET Core controllers",
+      "web services .NET"
+    ],
+    "categories": [
+      "Web Development",
+      "ASP.NET Core",
+      "API Development"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "building-restful-apis-with-aspnet-core.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "containerization-with-docker",
+    "title": "Containerization with Docker",
+    "description": "An introduction to Docker for containerization, covering key concepts like images, containers, registries, and Dockerfiles, along with the benefits of using containers.",
+    "summary": "Explore Docker fundamentals: images, containers, and registries. Learn how containerization enhances portability, isolation, and efficiency for application deployment.",
+    "tags": [
+      "Docker",
+      "Containerization",
+      "DevOps",
+      "Containers",
+      "Software Deployment"
+    ],
+    "keywords": [
+      "Docker images",
+      "Docker containers",
+      "Dockerfile",
+      "container benefits",
+      "Docker Hub",
+      "container orchestration"
+    ],
+    "categories": [
+      "DevOps",
+      "Containerization",
+      "Cloud Computing"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "containerization-with-docker.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "container-orchestration-with-kubernetes",
+    "title": "Container Orchestrations with Kubernetes",
+    "description": "An introduction to Kubernetes, an open-source platform for automating deployment, scaling, and management of containerized applications, covering key concepts and benefits.",
+    "summary": "Discover Kubernetes: the platform for automating containerized application deployment, scaling, and management. Learn about Pods, Deployments, Services, and its benefits for high availability.",
+    "tags": [
+      "Kubernetes",
+      "Container Orchestration",
+      "DevOps",
+      "Containers",
+      "Cloud Native"
+    ],
+    "keywords": [
+      "Kubernetes pods",
+      "Kubernetes deployments",
+      "container management",
+      "cloud-native applications",
+      "Kubernetes services",
+      "scalable applications"
+    ],
+    "categories": [
+      "DevOps",
+      "Container Orchestration",
+      "Cloud Computing"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "container-orchestration-with-kubernetes.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "continuous-integration-and-continuous-delivery-cicd",
+    "title": "Continuous Integration and Continuous Delivery (CI/CD)",
+    "description": "An exploration of CI/CD pipelines as a core DevOps practice, automating software building, testing, and deployment for faster, more reliable delivery.",
+    "summary": "Understand CI/CD pipelines: automating integration, testing, and deployment for rapid and reliable software delivery. Covers key concepts like automation, version control, and continuous feedback.",
+    "tags": [
+      "CI/CD",
+      "DevOps",
+      "Continuous Integration",
+      "Continuous Delivery",
+      "Automation"
+    ],
+    "keywords": [
+      "CI/CD pipeline",
+      "DevOps automation",
+      "continuous delivery practices",
+      "automated testing",
+      "version control for CI/CD",
+      "software delivery"
+    ],
+    "categories": [
+      "DevOps",
+      "Software Engineering",
+      "Automation"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "continuous-integration-and-continuous-delivery-cicd.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "csharp-and-microservices-architecture",
+    "title": "C# and Microservices Architecture",
+    "description": "An overview of building microservices with C# and the .NET ecosystem, covering benefits like scalability and resilience, and key considerations for implementation.",
+    "summary": "Learn how C# and .NET facilitate microservices architecture, focusing on benefits like independent scalability and resilience, and essential considerations for communication, security, and deployment.",
+    "tags": [
+      "C#",
+      "Microservices",
+      ".NET",
+      "Architecture",
+      "Distributed Systems"
+    ],
+    "keywords": [
+      "C# microservices",
+      ".NET microservices",
+      "ASP.NET Core microservices",
+      "gRPC microservices",
+      "message queues microservices",
+      "service discovery"
+    ],
+    "categories": [
+      "Architecture",
+      "C#",
+      ".NET",
+      "Microservices"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "csharp-and-microservices-architecture.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "data-access-with-entity-framework-core",
+    "title": "Data Access With Entity Framework Core",
+    "description": "A guide to using Entity Framework Core for simplified data access in .NET applications, including installation, DbContext definition, CRUD operations, and advanced features.",
+    "summary": "Master data access in .NET with Entity Framework Core. This guide covers setup, DbContext, CRUD operations, LINQ queries, migrations, and best practices for efficient database interaction.",
+    "tags": [
+      "Entity Framework Core",
+      "Data Access",
+      "C#",
+      ".NET",
+      "ORM",
+      "Database"
+    ],
+    "keywords": [
+      "EF Core",
+      "C# data access",
+      "ORM .NET",
+      "DbContext",
+      "LINQ to Entities",
+      "EF Core migrations"
+    ],
+    "categories": [
+      "Data Access",
+      "C#",
+      ".NET",
+      "Database"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "data-access-with-entity-framework-core.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "dependency-injection",
+    "title": "Dependency Injection",
+    "description": "An introduction to dependency injection in Blazor applications, explaining how to decouple object creation and use for more modular and testable code.",
+    "summary": "Understand Dependency Injection in Blazor: learn to register and inject services for modular, testable, and maintainable applications. Covers basic setup and usage with the `Inject` attribute.",
+    "tags": [
+      "Dependency Injection",
+      "Blazor",
+      "C#",
+      "Design Patterns",
+      "Front-end Development"
+    ],
+    "keywords": [
+      "DI Blazor",
+      "Blazor dependency injection",
+      "service injection Blazor",
+      "IMyService",
+      "decoupling Blazor",
+      "testable Blazor code"
+    ],
+    "categories": [
+      "Web Development",
+      "Blazor",
+      "Design Patterns"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer"
+    ],
+    "contentPath": "dependency-injection.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "dependency-injection-in-csharp",
+    "title": "Dependency Injection in C#",
+    "description": "A comprehensive guide to Dependency Injection (DI) in C#, explaining its types (constructor, property, method injection), benefits, and popular DI frameworks.",
+    "summary": "Explore Dependency Injection in C#: understand its types (constructor, property, method), benefits like improved testability and modularity, and how to use DI frameworks for cleaner code.",
+    "tags": [
+      "C#",
+      "Dependency Injection",
+      "Design Patterns",
+      "Software Architecture",
+      "Testability"
+    ],
+    "keywords": [
+      "C# DI",
+      "dependency injection types",
+      "constructor injection C#",
+      "property injection C#",
+      "method injection C#",
+      "DI frameworks C#"
+    ],
+    "categories": [
+      "Programming",
+      "C#",
+      "Design Patterns"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "dependency-injection-in-csharp.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "gitops-a-modern-approach-to-infrastructure-and-application-delivery",
+    "title": "GitOps: A Modern Approach to Infrastructure and Application Delivery",
+    "description": "An introduction to GitOps, a modern approach for managing infrastructure and application deployments using Git as the single source of truth.",
+    "summary": "Discover GitOps: how using Git as the single source of truth for infrastructure and application configuration streamlines continuous delivery, ensuring consistency, reliability, and traceability.",
+    "tags": [
+      "GitOps",
+      "DevOps",
+      "Infrastructure as Code",
+      "Continuous Delivery",
+      "Automation"
+    ],
+    "keywords": [
+      "GitOps principles",
+      "IaC Git",
+      "declarative configuration",
+      "GitOps benefits",
+      "automated deployments",
+      "cloud-native GitOps"
+    ],
+    "categories": [
+      "DevOps",
+      "Infrastructure",
+      "Automation"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "gitops-a-modern-approach-to-infrastructure-and-application-delivery.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "infrastructure-as-code-iac",
+    "title": "Infrastructure as Code (IaC)",
+    "description": "An introduction to Infrastructure as Code (IaC), explaining how managing infrastructure through code streamlines provisioning, improves consistency, and enhances scalability.",
+    "summary": "Learn about Infrastructure as Code (IaC): automating infrastructure provisioning and management through code for increased efficiency, consistency, scalability, and security.",
+    "tags": [
+      "Infrastructure as Code",
+      "IaC",
+      "DevOps",
+      "Automation",
+      "Cloud Infrastructure"
+    ],
+    "keywords": [
+      "IaC benefits",
+      "infrastructure automation",
+      "version control for infrastructure",
+      "immutable infrastructure",
+      "self-service infrastructure"
+    ],
+    "categories": [
+      "DevOps",
+      "Infrastructure",
+      "Automation"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "infrastructure-as-code-iac.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "introduction-to-cloud-computing",
+    "title": "Introduction to Cloud Computing",
+    "description": "An introductory guide to cloud computing, covering key concepts, service models (IaaS, PaaS, SaaS), deployment models, and popular cloud providers.",
+    "summary": "Discover the fundamentals of cloud computing: explore service models (IaaS, PaaS, SaaS), deployment models (public, private, hybrid), and popular providers like AWS, Azure, and GCP.",
+    "tags": [
+      "Cloud Computing",
+      "AWS",
+      "Azure",
+      "GCP",
+      "IaaS",
+      "PaaS",
+      "SaaS"
+    ],
+    "keywords": [
+      "what is cloud computing",
+      "cloud service models",
+      "cloud deployment models",
+      "public cloud",
+      "private cloud",
+      "hybrid cloud",
+      "cloud providers"
+    ],
+    "categories": [
+      "Cloud Computing",
+      "Fundamentals"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "recruiter"
+    ],
+    "contentPath": "introduction-to-cloud-computing.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "introduction-to-devops",
+    "title": "Introduction to DevOps",
+    "description": "An introduction to DevOps, a set of practices combining software development and IT operations for faster, higher-quality software delivery.",
+    "summary": "Learn the basics of DevOps: its principles (collaboration, automation, CI/CD, IaC) and benefits like faster delivery, improved quality, and increased stability in software development.",
+    "tags": [
+      "DevOps",
+      "Software Development",
+      "IT Operations",
+      "CI/CD",
+      "Automation"
+    ],
+    "keywords": [
+      "what is DevOps",
+      "DevOps principles",
+      "DevOps benefits",
+      "DevOps automation",
+      "CI/CD DevOps",
+      "DevOps culture"
+    ],
+    "categories": [
+      "DevOps",
+      "Software Engineering",
+      "Methodologies"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead",
+      "recruiter"
+    ],
+    "contentPath": "introduction-to-devops.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "intro-to-blazor",
+    "title": "Introduction to Blazor",
+    "description": "An introduction to Blazor, a web framework that enables client-side web development using C#.",
+    "summary": "Explore Blazor, a web framework that allows you to build interactive client-side web UI with C#. Learn about its components and how to get started with Blazor SDK.",
+    "tags": [
+      "Blazor",
+      "C#",
+      "Web Development",
+      ".NET",
+      "Front-end"
+    ],
+    "keywords": [
+      "Blazor framework",
+      "C# web development",
+      "client-side C#",
+      "Blazor components",
+      "Razor syntax Blazor"
+    ],
+    "categories": [
+      "Web Development",
+      "Blazor",
+      "C#"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer"
+    ],
+    "contentPath": "intro-to-blazor.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "leveraging-linq-for-data-queries-in-csharp",
+    "title": "Leveraging LINQ for Data Queries in C#",
+    "description": "A guide to understanding and using Language Integrated Query (LINQ) in C# for querying various data sources, including objects, databases, and XML.",
+    "summary": "Master LINQ in C#: learn to query data sources uniformly with LINQ to Objects, LINQ to SQL, and LINQ to Entities. Includes common operators and best practices for efficient queries.",
+    "tags": [
+      "LINQ",
+      "C#",
+      "Data Queries",
+      ".NET",
+      "Object-Oriented Programming"
+    ],
+    "keywords": [
+      "LINQ C#",
+      "Language Integrated Query",
+      "LINQ to Objects",
+      "LINQ to SQL",
+      "LINQ to Entities",
+      "C# data querying"
+    ],
+    "categories": [
+      "Programming",
+      "C#",
+      "Data Access"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "leveraging-linq-for-data-queries-in-csharp.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "monitoring-and-logging-in-devops",
+    "title": "Monitoring and Logging in DevOps",
+    "description": "Explore the essential practices of monitoring and logging in DevOps to track performance, identify issues, and enhance system reliability, along with key tools and best practices.",
+    "summary": "A deep dive into monitoring and logging in DevOps, covering key concepts like metrics, logs, and alerting, and popular tools such as Prometheus, Grafana, and ELK Stack for proactive issue detection and performance optimization.",
+    "tags": [
+      "DevOps",
+      "Monitoring",
+      "Logging",
+      "Observability",
+      "Alerting"
+    ],
+    "keywords": [
+      "DevOps monitoring",
+      "DevOps logging",
+      "Prometheus",
+      "Grafana",
+      "ELK Stack",
+      "application performance monitoring"
+    ],
+    "categories": [
+      "DevOps",
+      "Operations",
+      "System Administration"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "monitoring-and-logging-in-devops.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "performance-optimization-techniques-in-csharp",
+    "title": "Performance Optimization Techniques in C#",
+    "description": "A guide to key techniques for optimizing the performance of C# applications, including profiling, code optimization, asynchronous programming, and memory management.",
+    "summary": "Enhance your C# application's performance with techniques like profiling, efficient algorithm selection, minimizing object creation, asynchronous programming, and effective memory management. Also covers database optimization.",
+    "tags": [
+      "C#",
+      "Performance Optimization",
+      ".NET",
+      "Profiling",
+      "Memory Management"
+    ],
+    "keywords": [
+      "C# performance",
+      "optimize C#",
+      "C# profiling",
+      "async await performance",
+      "garbage collection C#",
+      "database optimization C#"
+    ],
+    "categories": [
+      "Programming",
+      "C#",
+      "Performance"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "performance-optimization-techniques-in-csharp.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "security-in-devops",
+    "title": "Security in DevOps",
+    "description": "An essential guide to integrating security into DevOps workflows, covering key principles like 'shift left', automation, continuous monitoring, and secure by design.",
+    "summary": "Learn about security in DevOps: integrating security practices throughout the SDLC, emphasizing 'shift left', automation, continuous monitoring, and secure coding for robust applications.",
+    "tags": [
+      "DevOps",
+      "Security",
+      "Application Security",
+      "CI/CD",
+      "Cybersecurity"
+    ],
+    "keywords": [
+      "DevOps security",
+      "shift left security",
+      "automated security testing",
+      "secure code reviews",
+      "container security",
+      "secrets management"
+    ],
+    "categories": [
+      "DevOps",
+      "Security",
+      "Software Engineering"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "security-in-devops.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "testing-csharp-applications-with-unit-tests",
+    "title": "Testing C# Applications with Unit Tests",
+    "description": "A guide to understanding and implementing unit tests in C# applications, covering popular frameworks like xUnit, NUnit, and MSTest, along with best practices.",
+    "summary": "Master unit testing for C# applications: learn how to write effective tests, isolate code units, and use frameworks like xUnit. Covers benefits like early bug detection and TDD principles.",
+    "tags": [
+      "C#",
+      "Unit Testing",
+      "Testing",
+      "xUnit",
+      "NUnit",
+      "MSTest",
+      "TDD"
+    ],
+    "keywords": [
+      "C# unit testing",
+      "xUnit C#",
+      "NUnit C#",
+      "MSTest C#",
+      "unit test best practices",
+      "Test-Driven Development C#"
+    ],
+    "categories": [
+      "Programming",
+      "C#",
+      "Testing"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead"
+    ],
+    "contentPath": "testing-csharp-applications-with-unit-tests.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
+  },
+  {
+    "slug": "understanding-dotnet-core-a-modern-framework",
+    "title": "Understanding .NET Core: A Modern Framework",
+    "description": "An explanation of .NET Core as a cross-platform, high-performance, open-source framework for building modern applications, highlighting its key features and components.",
+    "summary": "Discover .NET Core: a modern, cross-platform, and high-performance framework for building diverse applications. Learn about its key features like modularity and cloud-native design, and core components.",
+    "tags": [
+      ".NET Core",
+      "C#",
+      "Framework",
+      "Cross-Platform",
+      "Open Source",
+      "Cloud Native"
+    ],
+    "keywords": [
+      "what is .NET Core",
+      ".NET Core features",
+      ".NET Core vs .NET Framework",
+      "cross-platform .NET",
+      "ASP.NET Core",
+      "Entity Framework Core"
+    ],
+    "categories": [
+      "Programming",
+      ".NET",
+      "Frameworks"
+    ],
+    "publishDate": "2025-06-01T00:00:00Z",
+    "targetAudiences": [
+      "developer",
+      "techlead",
+      "recruiter"
+    ],
+    "contentPath": "understanding-dotnet-core-a-modern-framework.md",
+    "author": null,
+    "version": null,
+    "featuredImage": null,
+    "isFeatured": false
   }
 ]
