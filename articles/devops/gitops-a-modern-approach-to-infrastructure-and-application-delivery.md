@@ -1,0 +1,3 @@
+# GitOps: A Modern Approach to Infrastructure and Application Delivery
+
+...existing content from gitops-a-modern-approach-to-infrastructure-and-application-delivery.md...

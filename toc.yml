@@ -1,24 +1,10 @@
 - name: Home
   href: index.md
 - name: Zentient Framework
-  items:
-    - name: Quick Start
-      href: zentient/quick-start-zentient-results.md
-    - name: Design Decisions
-      href: zentient/design-decisions.md
-    - name: Architectural Deep Dive
-      href: zentient/architectural-deep-dive.md
+  href: zentient/toc.yml
 - name: Development Insights
-  items:
-    - name: Blazor - Building Interactive Web UIs
-      href: articles/development/intro-to-blazor.md
-    - name: .NET Core - A Modern Framework
-      href: articles/development/understanding-dotnet-core-a-modern-framework.md
+  href: articles/development/toc.yml
 - name: DevOps & Cloud
-  items:
-    - name: Containerization with Docker
-      href: articles/devops/containerization-with-docker.md
+  href: articles/devops/toc.yml
 - name: Portfolio & Projects
-  items:
-    - name: Portfolio Website
-      href: portfolio/portfoliowebsite.md
+  href: portfolio/toc.yml

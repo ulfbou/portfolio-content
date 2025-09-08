@@ -1,0 +1,8 @@
+- name: Cloud
+  items:
+    - name: Introduction to Cloud Computing
+      href: introduction-to-cloud-computing.md
+    - name: AWS Certified Solutions Architect - Associate
+      href: aws-certified-solutions-architect-associate.md
+    - name: Serverless Computing with AWS Lambda
+      href: serverless-computing-with-aws-lambda.md

@@ -1,0 +1,26 @@
+- name: Development Insights
+  items:
+    - name: A Beginner's Guide to C#
+      href: beginners-guide-to-csharp.md
+    - name: .NET Core - A Modern Framework
+      href: understanding-dotnet-core-a-modern-framework.md
+    - name: Asynchronous Programming in C#
+      href: asynchronous-programming-in-csharp.md
+    - name: Leveraging LINQ for Data Queries in C#
+      href: leveraging-linq-for-data-queries-in-csharp.md
+    - name: Performance Optimization Techniques in C#
+      href: performance-optimization-techniques-in-csharp.md
+    - name: Testing C# Applications with Unit Tests
+      href: testing-csharp-applications-with-unit-tests.md
+    - name: Dependency Injection in C#
+      href: dependency-injection-in-csharp.md
+    - name: Data Access With Entity Framework Core
+      href: data-access-with-entity-framework-core.md
+    - name: C# and Microservices Architecture
+      href: csharp-and-microservices-architecture.md
+    - name: Introduction to Blazor
+      href: intro-to-blazor.md
+    - name: Building RESTful APIs with ASP.NET Core
+      href: building-restful-apis-with-aspnet-core.md
+    - name: Dependency Injection in Blazor
+      href: dependency-injection.md

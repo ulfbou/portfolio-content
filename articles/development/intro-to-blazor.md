@@ -1,3 +1,3 @@
-# Blazor: Building Interactive Web UIs with C#
+# Introduction to Blazor
 
 ...existing content from intro-to-blazor.md...

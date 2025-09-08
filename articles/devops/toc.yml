@@ -1,0 +1,24 @@
+- name: DevOps & Cloud
+  items:
+    - name: Introduction to DevOps
+      href: introduction-to-devops.md
+    - name: Continuous Integration and Continuous Delivery (CI/CD)
+      href: continuous-integration-and-continuous-delivery-cicd.md
+    - name: Monitoring and Logging in DevOps
+      href: monitoring-and-logging-in-devops.md
+    - name: Security in DevOps
+      href: security-in-devops.md
+    - name: Containerization with Docker
+      href: containerization-with-docker.md
+    - name: Container Orchestrations with Kubernetes
+      href: container-orchestration-with-kubernetes.md
+    - name: Infrastructure as Code (IaC)
+      href: infrastructure-as-code-iac.md
+    - name: GitOps: A Modern Approach to Infrastructure and Application Delivery
+      href: gitops-a-modern-approach-to-infrastructure-and-application-delivery.md
+    - name: AWS Certified Solutions Architect - Associate
+      href: ../cloud/aws-certified-solutions-architect-associate.md
+    - name: Serverless Computing with AWS Lambda
+      href: ../cloud/serverless-computing-with-aws-lambda.md
+    - name: Introduction to Cloud Computing
+      href: ../cloud/introduction-to-cloud-computing.md

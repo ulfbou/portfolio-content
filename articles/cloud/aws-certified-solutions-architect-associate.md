@@ -1,0 +1,3 @@
+# AWS Certified Solutions Architect - Associate
+
+...existing content from aws-certified-solutions-architect-associate.md...

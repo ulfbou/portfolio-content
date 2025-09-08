@@ -1,0 +1,3 @@
+# Performance Optimization Techniques in C#
+
+...existing content from performance-optimization-techniques-in-csharp.md...
