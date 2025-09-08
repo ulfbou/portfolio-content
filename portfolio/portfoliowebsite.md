@@ -1,0 +1,3 @@
+# My New Developer Portfolio Is Live – Built for Clarity, Built with Purpose
+
+...existing content from portfoliowebsite.md...

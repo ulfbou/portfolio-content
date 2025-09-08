@@ -1,0 +1,3 @@
+# Understanding .NET Core: A Modern Framework
+
+...existing content from understanding-dotnet-core-a-modern-framework.md...

@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "quick-start-zentient-results",
+    "title": "Quick Start Guide to Zentient.Results",
+    "description": "Get started with Zentient.Results in minutes.",
+    "tags": [ "Zentient.Results", "Getting Started", ".NET" ],
+    "categories": [ "Getting-Started" ],
+    "publishDate": "2023-01-15T10:00:00Z",
+    "targetAudiences": [ "developer" ],
+    "contentPath": "quick-start-zentient-results.md"
+  },
+  {
+    "slug": "architectural-deep-dive",
+    "title": "Zentient.Results: Architectural Deep Dive",
+    "description": "An in-depth look at the design principles and patterns behind Zentient.Results.",
+    "tags": [ "Zentient.Results", "Architecture", "Design Patterns", "Functional Programming" ],
+    "categories": [ "Core-Concepts" ],
+    "publishDate": "2023-03-10T14:30:00Z",
+    "targetAudiences": [ "developer", "techlead" ],
+    "contentPath": "architectural-deep-dive.md"
+  },
+  {
+    "slug": "my-contribution-summary",
+    "title": "My Key Contributions to Zentient.Results",
+    "description": "Highlighting my personal impact and skills demonstrated in the Zentient.Results project.",
+    "tags": [ "Portfolio", "Impact", "Skills", "Leadership" ],
+    "categories": [ "Personal-Showcase" ],
+    "publishDate": "2023-05-20T09:00:00Z",
+    "targetAudiences": [ "recruiter", "techlead" ],
+    "contentPath": "my-contribution-summary.md"
+  },
+  {
+    "slug": "integrating-aspnet-core",
+    "title": "Integrating Zentient.Results with ASP.NET Core",
+    "description": "Practical guide on using Zentient.Results in ASP.NET Core applications.",
+    "tags": [ "ASP.NET Core", "Integration", "Web Development" ],
+    "categories": [ "Integrations" ],
+    "publishDate": "2023-04-01T11:00:00Z",
+    "targetAudiences": [ "developer", "techlead" ],
+    "contentPath": "integrating-aspnet-core.md"
+  }
+]

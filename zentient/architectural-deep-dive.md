@@ -1,0 +1,3 @@
+# Architecture of Zentient.Results
+
+...existing content from architectural-deep-dive.md...

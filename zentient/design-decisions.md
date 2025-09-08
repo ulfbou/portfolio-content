@@ -1,0 +1,3 @@
+# Design Decisions for Zentient.Results
+
+...existing content from design-decisions.md...

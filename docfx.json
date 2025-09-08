@@ -1,47 +1,47 @@
 {
- "metadata": [
- {
- "src": [
- {
- "files": ["**/*.md"],
- "exclude": ["obj/**", "_site/**"],
- "src": "docs"
- }
- ],
- "dest": "obj/api"
- }
- ],
- "build": {
- "content": [
- {
- "files": ["**/*.md"],
- "src": "docs"
- }
- ],
- "resource": [
- {
- "files": ["**/*.{png,jpg,jpeg,gif,svg}", "**/*.json"],
- "src": "assets"
- }
- ],
- "overwrite": [
- {
- "files": ["**/*.overwrite.md"]
- }
- ],
- "globalMetadata": {
- "appTitle": "Knowledge Hub",
- "enableSearch": true,
- "appFooter": "\u00A9 2025 Ulf Bourelius. All rights reserved.",
- "enableNewTab": true
- },
- "template": ["default", "themes/custom"],
- "dest": "site",
- "xref": [],
- "sitemap": {
- "baseUrl": "https://ulfbou.github.io/",
- "priority": 0.5,
- "changefreq": "weekly"
- }
- }
+  "metadata": [
+    {
+      "src": [
+        {
+          "files": ["**/*.md"],
+          "exclude": ["obj/**", "_site/**"],
+          "src": "."
+        }
+      ],
+      "dest": "obj/api"
+    }
+  ],
+  "build": {
+    "content": [
+      {
+        "files": ["**/*.md"],
+        "src": "."
+      }
+    ],
+    "resource": [
+      {
+        "files": ["**/*.{png,jpg,jpeg,gif,svg}", "**/*.json"],
+        "src": "assets"
+      }
+    ],
+    "overwrite": [
+      {
+        "files": ["**/*.overwrite.md"]
+      }
+    ],
+    "globalMetadata": {
+      "appTitle": "Knowledge Hub",
+      "enableSearch": true,
+      "appFooter": "\u00A9 2025 Ulf Bourelius. All rights reserved.",
+      "enableNewTab": true
+    },
+    "template": ["default", "themes/custom"],
+    "dest": "_site",
+    "xref": [],
+    "sitemap": {
+      "baseUrl": "https://ulfbou.github.io/",
+      "priority": 0.5,
+      "changefreq": "weekly"
+    }
+  }
 }
